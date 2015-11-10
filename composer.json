@@ -1,0 +1,22 @@
+{
+  "name": "execut/yii2-cols-list-view",
+  "version": "0.1.0",
+  "description": "Multicolumn ListView for yii2",
+  "keywords": ["yii2", "ListView", "Multicolumn grid view", "Multicolumn list view", "list view"],
+  "homepage": "https://github.com/execut/yii2-cols-list-view",
+  "type": "yii2-extension",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "eXeCUT"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*",
+  },
+  "autoload": {
+    "psr-4": {
+      "execut\\widget\\": ""
+    }
+  }
+}
