@@ -1,6 +1,5 @@
 {
   "name": "execut/yii2-cols-list-view",
-  "version": "0.1.0",
   "description": "Multicolumn ListView for yii2",
   "keywords": ["yii2", "ListView", "Multicolumn grid view", "Multicolumn list view", "list view"],
   "homepage": "https://github.com/execut/yii2-cols-list-view",
