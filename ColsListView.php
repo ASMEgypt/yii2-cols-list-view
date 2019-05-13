@@ -5,7 +5,7 @@
  * Time: 17:19
  */
 
-namespace execut\widget;
+namespace execut\colsListView;
 
 
 use yii\helpers\Html;
